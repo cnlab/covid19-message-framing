@@ -1,0 +1,78 @@
+---
+title: "Framing effects on the effectiveness and virality of health messages related to COVID-19"
+output:
+  html_document:
+    df_print: paged
+    highlight: tango
+    theme: united
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br>
+
+Below you'll find a series of reports from the health message framing studies related to COVID-19 coducted by the [Communication Neuroscience Lab at the University of Pennsylvania](https://cn.asc.upenn.edu/).
+
+More information about this project is available on [OSF](https://osf.io/8hn2g/).
+
+<br>
+
+## Overview reports
+
+---
+
+[Project overview: descriptives and correlations](overview1.html)
+
+This report presents an overview of two pilot studies and a full-scale study we conducted testing the efficacy of several message framing interventions to enhance effectiveness and intentions, norms, and beliefs related to social distancing, and the degree to which specific individual differences were associated with these outcomes. This report presents basic descriptive statistics (e.g. distributions and correlations) collapsed across the message framing conditions. For the results from preregistered and exploratory analyses related to the message framing conditions, please see the reports below.
+
+<br> 
+
+[Project overview: scatterplots and predictor comparison](overview2.html)
+
+This report presents an overview of two pilot studies and a full-scale study we conducted testing the efficacy of several message framing interventions to enhance effectiveness and intentions, norms, and beliefs related to social distancing, and the degree to which specific individual differences were associated with these outcomes. This report presents scatterplots and compares the effect sizes of various predictors of the outcomes of interest, collapased across the message framing conditions. For the results from preregistered and exploratory analyses related to the message framing conditions, please see the reports below.
+
+<br> 
+
+[Message argument strength norming](argument-strength.html)
+
+This report presents the results from a norming study assessing the argument strength of a pool of 33 health messages related to COVID-19.
+
+<br>
+
+## Autonomous message framing reports
+
+---
+
+[Pilot studies report](autonomous/report-pilots.html)
+
+This report presents initial analyses from two pilot studies comparing the effects of messages framed using autonomy-supportive language versus control messages, and a no message control condition. These studies employed a between-subject design in which participants were randomly assigned to a single message condition.
+
+<br> 
+
+[Full study 1 report](autonomous/report-full-study1.html)  
+
+This report presents [preregistered](https://osf.io/cmr25/) and exploratory analyses from a full-scale study comparing the effects of messages framed using autonomy-supportive language versus control messages, and a no message control condition. This study employed a between-subject design in which participants were randomly assigned to a single message condition.
+
+<br> 
+
+[Full study 1a report](autonomous/report-full-study1.html)  
+
+This report presents [preregistered](https://osf.io/xcrmn/) and exploratory analyses from a full-scale study comparing the effects of messages framed using autonomy-supportive language versus control messages. This study employed a within-subject design in which participants were exposed to both autonomous and control messages.
+
+<br>
+
+## Descriptive norms message framing reports
+
+---
+
+These reports are forthcoming.
+
+<br>
+
+## Humorous message framing reports
+
+---
+
+These reports are forthcoming.
