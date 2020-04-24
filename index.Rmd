@@ -13,7 +13,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-Below you'll find a series of reports from the health message framing studies related to COVID-19 coducted by the [Communication Neuroscience Lab at the University of Pennsylvania](https://cn.asc.upenn.edu/).
+Below you'll find a series of reports from the health message framing studies related to COVID-19 conducted by the [Communication Neuroscience Lab at the University of Pennsylvania](https://cn.asc.upenn.edu/).
+
+These reports are intended to facilitate knowledge transfer among researchers. They have not been peer-reviewed and should be considered preliminary evidence. We are also in the process of preparing anonymized data and will post it in the [project repository](https://github.com/cnlab/covid19-message-framing).
 
 More information about this project is available on [OSF](https://osf.io/8hn2g/).
 
