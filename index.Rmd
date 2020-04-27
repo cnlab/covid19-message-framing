@@ -59,7 +59,7 @@ This report presents [preregistered](https://osf.io/cmr25/) and exploratory anal
 
 <br> 
 
-[Full study 1a report](autonomous/report-full-study1.html)  
+[Full study 1a report](autonomous/report-full-study1a.html)  
 
 This report presents [preregistered](https://osf.io/xcrmn/) and exploratory analyses from a full-scale study comparing the effects of messages framed using autonomy-supportive language versus control messages. This study employed a within-subject design in which participants were exposed to both autonomous and control messages.
 
