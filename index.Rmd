@@ -37,6 +37,12 @@ This report presents an overview of two pilot studies and a full-scale study we 
 
 <br> 
 
+[Message overview & descriptives](messages.html)
+
+This report presents descriptives for the individual health message effects used in this project, collapsed across message framing conditions.
+
+<br>
+
 [Message argument strength norming](argument-strength.html)
 
 This report presents the results from a norming study assessing the argument strength of a pool of 33 health messages related to COVID-19.
