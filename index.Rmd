@@ -75,7 +75,9 @@ This report presents [preregistered](https://osf.io/xcrmn/) and exploratory anal
 
 ---
 
-These reports are forthcoming.
+[Full study 1 report](norms/norms_study1.html)  
+
+This report presents [preregistered](https://osf.io/xg4sa) and exploratory analyses from a full-scale study comparing the effects of messages that include descriptive norm information versus control messages, and a no message control condition. This study employed a between-subject design in which participants were randomly assigned to a single message condition.
 
 <br>
 
