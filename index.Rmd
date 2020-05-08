@@ -85,4 +85,14 @@ This report presents [preregistered](https://osf.io/xg4sa) and exploratory analy
 
 ---
 
-These reports are forthcoming.
+[Message pre-test and pilot studies report](autonomous/report-pilots.html)
+
+This report presents initial analyses from message pre-tests and two pilot studies comparing the effects of messages framed using humorous framing (mocking and non-mocking) versus control messages, and a no message control condition. These studies employed a between-subject design in which participants were randomly assigned to a single message condition. 
+
+<br> 
+
+[Full study 1 + Humor study 2 report](autonomous/report-full-study1.html)  
+
+This report presents analyses for Full Study 1 and Humor Study 2, both preregistered [here](https://osf.io/8hn2g/). Full study 1 report (preregistered [here](https://osf.io/kj4yt)) contains exploratory analyses from a full-scale study comparing the effects of messages framed using mocking humorous framing versus control messages, and a no message control condition. This study employed a between-subject design in which participants were randomly assigned to a single message condition. Similarly, Humor Study 2 (preregistered [here](https://osf.io/ay3dj)) report contains analyses pertaining to differences in mocking and non-mocking humor, and mediation hypotheses to explain some of the effects observed in the Full Study 1 analyeses. 
+
+<br> 
