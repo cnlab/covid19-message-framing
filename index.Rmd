@@ -17,8 +17,6 @@ Below you'll find a series of reports from the health message framing studies re
 
 These reports are intended to facilitate knowledge transfer among researchers. They have not been peer-reviewed and should be considered preliminary evidence. We are also in the process of preparing anonymized data and will post it in the [project repository](https://github.com/cnlab/covid19-message-framing).
 
-More information about this project is available on [OSF](https://osf.io/8hn2g/).
-
 <br>
 
 ## Overview reports
@@ -80,19 +78,3 @@ This report presents [preregistered](https://osf.io/xcrmn/) and exploratory anal
 This report presents [preregistered](https://osf.io/xg4sa) and exploratory analyses from a full-scale study comparing the effects of messages that include descriptive norm information versus control messages, and a no message control condition. This study employed a between-subject design in which participants were randomly assigned to a single message condition.
 
 <br>
-
-## Humorous message framing reports
-
----
-
-[Message pre-test and pilot studies report](humor/report-pilots-pretest.html)
-
-This report presents initial analyses from message pre-tests and two pilot studies comparing the effects of messages framed using humorous framing (mocking and non-mocking) versus control messages, and a no message control condition. These studies employed a between-subject design in which participants were randomly assigned to a single message condition. 
-
-<br> 
-
-[Full study 1 + Humor study 2 report](humor/report-study1-humor2.html)  
-
-This report presents analyses for Full Study 1 and Humor Study 2, both preregistered [here](https://osf.io/8hn2g/). Full study 1 report (preregistered [here](https://osf.io/kj4yt)) contains exploratory analyses from a full-scale study comparing the effects of messages framed using mocking humorous framing versus control messages, and a no message control condition. This study employed a between-subject design in which participants were randomly assigned to a single message condition. Similarly, Humor Study 2 (preregistered [here](https://osf.io/ay3dj)) report contains analyses pertaining to differences in mocking and non-mocking humor, and mediation hypotheses to explain some of the effects observed in the Full Study 1 analyeses. 
-
-<br> 
